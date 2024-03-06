@@ -1,0 +1,7 @@
+transformers
+os
+requests
+jsonlib
+streamlit
+dotenv
+pytorch
